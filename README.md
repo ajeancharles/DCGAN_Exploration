@@ -1,2 +1,2 @@
 # DCGAN_Exploration
-to save coding in DCGAN
+to save coding om DCGAN
